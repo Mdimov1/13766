@@ -1,5 +1,3 @@
-package edu.fmi;
-
 import java.util.Scanner;
 
 public class Triangle
